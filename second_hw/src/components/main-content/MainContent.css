@@ -1,0 +1,40 @@
+.card {
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 675px;
+  height: 165px;
+  /* background-color: aqua; */
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 1px 5px 10px rgb(103, 99, 99);
+}
+
+.img {
+  width: 250px;
+  height: 165px;
+  border-radius: 10px;
+}
+
+.btns {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.stars {
+  background-color: orange;
+  color: white;
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  padding-left: 22px;
+  padding-top: 6px;
+  margin-right: 10px;
+  /* margin-left: 20px; */
+}
+
+.title {
+  text-align: start;
+  margin-left: 10px;
+}
