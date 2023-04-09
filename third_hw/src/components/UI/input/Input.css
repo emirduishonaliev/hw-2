@@ -1,0 +1,15 @@
+.input_containter {
+    padding: 20px;
+    margin-bottom: 10px;
+    display: inline-grid;
+  }
+  
+  .input {
+      width: 340px;
+      height: 39px;
+      background: #ffffff;
+      border-radius: 8px;
+      border-style: none;
+      margin-left: 10px;
+    }
+    
